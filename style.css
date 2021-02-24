@@ -270,3 +270,12 @@ a:active {
       margin: 15px;
    }
 }
+
+.card-description__link-icon {
+   font-size: 1.8rem;
+   color: #999;
+   text-decoration: none;
+   bottom: 1rem;
+   transform: translateX(-50%);
+   transition: .2s;
+}
