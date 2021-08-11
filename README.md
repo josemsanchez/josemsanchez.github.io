@@ -1,2 +1,2 @@
-# lifeisshort.github.io
-Jose's Portfolio
+Visit [Jose's Portfolio](https://josemsanchez.github.io)
+
